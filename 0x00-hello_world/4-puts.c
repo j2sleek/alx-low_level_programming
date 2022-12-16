@@ -1,10 +1,15 @@
 #include <stdio.h>
 #include <string.h>
 
-int main ()
+/*
+ * A function that uses puts to output a string
+ */
+
+int main(void)
 {
-	char str[51];
-	strcpy(str, "Programming is like building a multilingual puzzle");
+	char str[52];
+
+	strcpy (str, "\"Programming is like building a multilingual puzzle");
 	puts(str);
 
 	return(0);
