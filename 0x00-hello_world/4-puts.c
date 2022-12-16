@@ -1,16 +1,17 @@
 #include <stdio.h>
 #include <string.h>
 
-/*
- * A function that uses puts to output a string
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	char str[52];
 
-	strcpy (str, "\"Programming is like building a multilingual puzzle");
+	strcpy(str, "\"Programming is like building a multilingual puzzle");
 	puts(str);
 
-	return(0);
+	return (0);
 }
