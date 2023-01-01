@@ -4,3 +4,8 @@ Nested loops, functions, prototype and scope of variables
 ### 0. putchar
 Write a program that prints _putchar, followed by a new line. [0-putchar](./0-putchar.c)
 - The program should return 0
+
+### 1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
+Write a function that prints the alphabet, in lowercase, followed by a new line. [1-main](./1-main.c)
+- Prototype: void print_alphabet(void);
+- You can only use _putchar twice in your code
