@@ -9,3 +9,8 @@ Write a program that prints _putchar, followed by a new line. [0-putchar](./0-pu
 Write a function that prints the alphabet, in lowercase, followed by a new line. [1-alphabet](./1-alphabet.c)
 - Prototype: void print_alphabet(void);
 - You can only use _putchar twice in your code
+
+### 2. 10 x alphabet
+Write a function that prints 10 times the alphabet, in lowercase, followed by a new line. [2-alphabet_x10](./2-alphabet_x10.c)
+- Prototype: void print_alphabet_x10(void);
+- You can only use _putchar twice in your code
