@@ -12,4 +12,9 @@ int _putchar(char c);
  */
 void print_alphabet_x10(void);
 
+/**
+ * _islower - checks for lowercase character
+ */
+int _islower(int c);
+
 #endif

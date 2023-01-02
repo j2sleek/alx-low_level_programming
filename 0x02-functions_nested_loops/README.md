@@ -14,3 +14,9 @@ Write a function that prints the alphabet, in lowercase, followed by a new line.
 Write a function that prints 10 times the alphabet, in lowercase, followed by a new line. [2-alphabet_x10](./2-alphabet_x10.c)
 - Prototype: void print_alphabet_x10(void);
 - You can only use _putchar twice in your code
+
+### 3. islower
+Write a function that checks for lowercase character.[3-islower](./3-islower.c)
+- Prototype: int _islower(int c);
+- Returns 1 if c is lowercase
+- Returns 0 otherwise
