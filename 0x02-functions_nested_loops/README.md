@@ -16,7 +16,13 @@ Write a function that prints 10 times the alphabet, in lowercase, followed by a 
 - You can only use _putchar twice in your code
 
 ### 3. islower
-Write a function that checks for lowercase character.[3-islower](./3-islower.c)
+Write a function that checks for lowercase character. [3-islower](./3-islower.c)
 - Prototype: int _islower(int c);
 - Returns 1 if c is lowercase
+- Returns 0 otherwise
+
+### 4. isalpha
+Write a function that checks for alphabetic character. [4-isalpha](./4-isalpha.c)
+- Prototype: int _isalpha(int c);
+- Returns 1 if c is a letter, lowercase or uppercase
 - Returns 0 otherwise
