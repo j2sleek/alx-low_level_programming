@@ -7,15 +7,13 @@ void jack_bauer(void)
 {
 	int i, j, k, l, m;
 
-	j = 0;
-
 	for (i = 0; i <= 2; i++)
 	{
 		if (i == 2)
 			m = j <= 3;
 		else
 			m = j <=9;
-		for (j; m; j++)
+		for (j = 0; m; j++)
 		{
 		for (k = 0; k <= 5; k++)
 		{
