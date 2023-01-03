@@ -11,7 +11,7 @@ Write a function that prints the alphabet, in lowercase, followed by a new line.
 - You can only use _putchar twice in your code
 
 ### 2. 10 x alphabet
-Write a function that prints 10 times the alphabet, in lowercase, followed by a new line. [2-alphabet_x10](./2-alphabet_x10.c)
+Write a function that prints 10 times the alphabet, in lowercase, followed by a new line. [2-print_alphabet_x10](./2-print_alphabet_x10.c)
 - Prototype: void print_alphabet_x10(void);
 - You can only use _putchar twice in your code
 
@@ -33,3 +33,7 @@ Write a function that prints the sign of a number. [5-sign.c](./5-sign.c)
 - Returns 1 and prints + if n is greater than zero
 - Returns 0 and prints 0 if n is zero
 - Returns -1 and prints - if n is less than zero
+
+### 6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
+Write a function that computes the absolute value of an integer. [6-abs](./6-abs.c)
+- Prototype: int _abs(int);
