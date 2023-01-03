@@ -37,4 +37,9 @@ int _abs(int);
  */
 int print_last_digit(int);
 
+/**
+ * jack_bauer - prints every minute starting from 00:00 to 23:59
+ */
+void jack_bauer(void);
+
 #endif

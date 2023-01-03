@@ -42,3 +42,7 @@ Write a function that computes the absolute value of an integer. [6-abs](./6-abs
 Write a function that prints the last digit of a number. [7-print_last_digit](./7-print_last_digit.c)
 - Prototype: int print_last_digit(int);
 - Returns the value of the last digit
+
+### 8. I'm federal agent Jack Bauer, and today is the longest day of my life
+Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59. [8-24_hours](./8-24_hours.c)
+- Prototype: void jack_bauer(void);
